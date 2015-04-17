@@ -38,5 +38,6 @@
   </properties>
   <modules>
     <module>xwiki-platform-ratings-test-pageobjects</module>
+    <module>xwiki-platform-ratings-test-tests</module>
   </modules>
 </project>
